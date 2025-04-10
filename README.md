@@ -86,10 +86,7 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   </a>
-  <a href="https://github.com/AlexeyAB/darknet" target="_blank">
-    <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=YOLO&logoColor=white" alt="YOLO"/>
-  </a>
-</p>
+  
 
 
 <h3>⚡ GitHub Stats</h3>
