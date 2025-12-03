@@ -123,8 +123,7 @@ Developing a full-stack application with AI integration for smart automation
 <!-- Connect Section with Your Contact Info -->
 <div align="center">
 
-## 🌐 Let's Connect!
-
+🌐 Let's Connect!
 <p>
   <a href="https://www.facebook.com/share/1A7SaZnDwR/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -132,7 +131,10 @@ Developing a full-stack application with AI integration for smart automation
   <a href="https://www.linkedin.com/in/md-shihabul-islam-shihab-38852734a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://codeforces.com/profile/Shihab_Force">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://discord.com/users/1402217531795705951">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://wa.me/YOUR_PHONE_NUMBER">
@@ -175,5 +177,5 @@ Developing a full-stack application with AI integration for smart automation
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22Allah+does+not+burden+a+soul;beyond+that+it+can+bear%22;%E2%80%94+Surah+Al-Baqarah+(2%3A286)" alt="Quranic Verse" />
 </div>
-💭 “You are stronger than you think; Allah knows your limits.”
+💭 “You are stronger than you think; Allah knows your limits”
 </div>
