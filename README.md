@@ -177,5 +177,5 @@ Developing a full-stack application with AI integration for smart automation
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22Allah+does+not+burden+a+soul;beyond+that+it+can+bear%22;%E2%80%94+Surah+Al-Baqarah+(2%3A286)" alt="Quranic Verse" />
 </div>
-💭 “You are stronger than you think; Allah knows your limits”
+
 </div>
