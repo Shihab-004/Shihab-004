@@ -83,7 +83,7 @@ const shihab = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Current Projects Section -->
-<div align="center">
+<!-- <div align="center">
 
 ## 🔭 Current Projects
 
@@ -107,7 +107,7 @@ Developing a full-stack application with AI integration for smart automation
 </tr>
 </table>
 
-</div>
+</div> -->
 
 <!-- Trophy Section -->
 <!-- <div align="center">
