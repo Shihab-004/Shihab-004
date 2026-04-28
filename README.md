@@ -15,7 +15,7 @@
 
 <!-- About Me Section with Cool Icons -->
 <div align="center">
-  
+
 ## 🧑‍💻 About Me
 
 ```typescript
@@ -28,20 +28,6 @@ const shihab = {
 ```
 
 </div>
-
-<!-- GitHub Stats with Modern Cards -->
-
-  
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShihabShihab-004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabShihab-004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShihabShihab-004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF" alt="GitHub Streak" /> -->
-
-<!-- </div>
-
-<!-- Animated Activity Graph -->
-
 
 <!-- Tech Stack Section -->
 <div align="center">
@@ -78,53 +64,16 @@ const shihab = {
 
 </div>
 
-
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Current Projects Section -->
-<!-- <div align="center">
-
-## 🔭 Current Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Agentic AI System
-Building intelligent autonomous agents with RAG (Retrieval-Augmented Generation) for context-aware responses
-
-**Tech:** LangChain, Vector DBs, OpenAI APIs
-</td>
-<td width="50%">
-
-### 🌐 AI-Powered Web App
-Developing a full-stack application with AI integration for smart automation
-
-**Tech:** React, Node.js, MongoDB, AI APIs
-
-</td>
-</tr>
-</table>
-
-</div> -->
-
-<!-- Trophy Section -->
-<!-- <div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShihabShihab-004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ShihabShihab-004)
-
-</div> -->
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- Connect Section with Your Contact Info -->
 <div align="center">
 
-🌐 Let's Connect!
+## 🌐 Let's Connect!
+
 <p>
   <a href="https://www.facebook.com/share/1A7SaZnDwR/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -144,7 +93,7 @@ Developing a full-stack application with AI integration for smart automation
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/ShihabShihab-004">
+  <a href="https://github.com/Shihab-004">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -155,8 +104,8 @@ Developing a full-stack application with AI integration for smart automation
 
 <!-- Profile Views Counter -->
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=ShihabShihab-004&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shihab-004&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -167,16 +116,17 @@ Developing a full-stack application with AI integration for smart automation
 
 <!-- Snake Animation -->
 <div align="center">
-  
+
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
+
 <div align="center">
- "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا"
-<div align="center">
+
+"لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا"
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22Allah+does+not+burden+a+soul;beyond+that+it+can+bear%22;%E2%80%94+Surah+Al-Baqarah+(2%3A286)" alt="Quranic Verse" />
-</div>
 
 </div>
